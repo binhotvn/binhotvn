@@ -1,5 +1,5 @@
 I appreciate everyone taking the time to visit my GitHub profile.
-Binh here; I'm a student, socialist, "fresher" businessperson, and typical developer.
+I'm a student, socialist, "fresher" businessperson, and typical developer.
 
 If you need to get in touch with me or if you have an emergency, please:
 - Email: binhot@pm.me
