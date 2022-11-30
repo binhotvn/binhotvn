@@ -9,3 +9,7 @@ If you need to get in touch with me or if you have an emergency, please:
 I am current living in Ho Chi Minh City, Vietnam 🇻🇳
 ### GitHub
 ![Binh's GitHub stats](https://github-readme-stats.vercel.app/api?username=binhotvn&count_private=true)
+
+## CV
+Ong Thanh Binh - Resume: ![PDF](https://github.com/binhotvn/binhotvn/blob/main/Ong%20Thanh%20Binh%20-%20Resume.pdf)
+
