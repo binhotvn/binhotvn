@@ -9,5 +9,5 @@ If you need to get in touch with me or if you have an emergency, please:
 I am current living in Ho Chi Minh City, Vietnam 🇻🇳
 
 ## CV
-Ong Thanh Binh - Resume: [PDF](https://github.com/binhotvn/binhotvn/blob/main/Ong%20Thanh%20Binh%20-%20Resume.pdf)
+Ong Thanh Binh - Resume: [PDF]([https://github.com/binhotvn/binhotvn/blob/main/Ong%20Thanh%20Binh%20-%20Resume.pdf](https://github.com/binhotvn/binhotvn/blob/main/Ong_Thanh_Binh__Resume.pdf)https://github.com/binhotvn/binhotvn/blob/main/Ong_Thanh_Binh__Resume.pdf)
 
